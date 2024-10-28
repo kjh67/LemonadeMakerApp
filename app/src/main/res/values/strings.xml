@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Lemonade Maker</string>
+    <string name="stageOneText">Tap the lemon tree to select a lemon</string>
+    <string name="stageTwoText">Keep tapping the lemon to squeeze it</string>
+    <string name="stageThreeText">Tap the lemonade to drink it</string>
+    <string name="stageFourText">Tap the empty glass to start again</string>
+    <string name="stageOneImageDescriptor">Lemon tree</string>
+    <string name="stageTwoImageDescriptor">Lemon</string>
+    <string name="stageThreeImageDescriptor">Glass of lemonade</string>
+    <string name="stageFourImageDescriptor">Empty glass</string>
+</resources>
